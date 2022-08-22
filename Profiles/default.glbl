@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://sample-web-service-aut.herokuapp.com'</initValue>
+      <initValue>'http://pretest-qa.dcidev.id/api/v1'</initValue>
       <name>baseUrl</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -18,5 +18,10 @@
       <description></description>
       <initValue>0</initValue>
       <name>globalId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bd11e8997d6566a0b404a69abc9b6a42055f11eac84bdd223db84a0e6e57e41c'</initValue>
+      <name>token</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
